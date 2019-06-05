@@ -9,7 +9,7 @@ Most system comes with python installed presently. <br>
 check the screenshots accessing command shell <br>
 
 **Client** <br>
-![Client Kancat] https://github.com/KannanManism/Kancat/blob/master/screenshot/kancat_client.png
+![Client Kancat] (https://github.com/KannanManism/Kancat/blob/master/screenshot/kancat_client.png)
 
 **Server** <br>
-![Server Kancat] https://github.com/KannanManism/Kancat/blob/master/screenshot/kancat_server.png
+![Server Kancat] (https://github.com/KannanManism/Kancat/blob/master/screenshot/kancat_server.png)
