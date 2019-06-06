@@ -1,5 +1,5 @@
 # Kancat
-Netcat like program written in Python.<br>
+Netcat like program written in **Python 2.7** <br>
 Tested in **Kali-Linux-2018.4** <br>
 
 <h2>Uses</h2>
